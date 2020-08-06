@@ -1,0 +1,18 @@
+{
+  "buttons": [
+    {
+      "name": "B1",
+      "color": "Green",
+      "id": 1
+    },
+    {
+      "name": "B3",
+      "color": "Red",
+      "id": 2
+    },
+   {
+     "name":"B2",
+     "color":"black",
+      "id":3}
+  ]
+}
